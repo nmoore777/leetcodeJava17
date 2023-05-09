@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+/jpa-buddy.xml
+/misc.xml
+/modules.xml
+/leetcodeJava17.iml
+/uiDesigner.xml
+/vcs.xml
+../out
